@@ -7,12 +7,15 @@ Wiring Diagram:
 
 Components list:
 
-<img width="984" height="714" alt="image" src="https://github.com/user-attachments/assets/1ea74390-b1e7-433e-8c50-e04879268f05" />
-<img width="608" height="514" alt="image" src="https://github.com/user-attachments/assets/c42e5b24-544c-4760-b16e-8302395dbed2" />
+<img width="1788" height="1295" alt="image" src="https://github.com/user-attachments/assets/420c1d94-9046-4c89-ae1d-08dba36eb9fb" />
+
+<img width="724" height="609" alt="image" src="https://github.com/user-attachments/assets/a0a1a9fa-6824-47c9-8994-d452fd64f113" />
+
 
 Assembled Hardware:
 
-<img width="715" height="512" alt="image" src="https://github.com/user-attachments/assets/b0ef11a7-5e0d-4043-82f8-0c808da7d70d" />
+<img width="1012" height="759" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/c78c6bac-7d62-48fc-bd90-dfb0cd99de4a" />
+
 
 Software- Summary of the systems script types:
 
