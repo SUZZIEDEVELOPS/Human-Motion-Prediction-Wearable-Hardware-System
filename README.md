@@ -36,6 +36,7 @@ main.py
 models/activity_model.pk1 → trained AdaBoost model
 
 models/scaler.pk1 → fitted StandardScaler
+
 models/selected_features.json → list of 150 selected feature names
 
 2.	ESP32 Firmware to be flashed onto the ESP32.
