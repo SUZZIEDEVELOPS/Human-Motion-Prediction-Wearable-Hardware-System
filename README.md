@@ -7,6 +7,7 @@ Wiring Diagram:
 
 <img width="940" height="488" alt="image" src="https://github.com/user-attachments/assets/5cbb140b-4fa2-4224-bdaa-345878cc154e" />
 
+---------------------------------------------------------------------------------------------------------------
 Components list:
 
 <img width="1788" height="1295" alt="image" src="https://github.com/user-attachments/assets/3d3d037a-0122-43e6-94ab-e18101e5426b" />
