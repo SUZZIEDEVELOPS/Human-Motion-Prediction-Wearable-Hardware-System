@@ -2,6 +2,7 @@
 Wearable hardware system and the implemented software for data collection (for model training) and activity classification during live deployment.
 
 ----------------------------------------------------------------------------------------------------------------
+
 Wiring Diagram:  
 
 <img width="940" height="488" alt="image" src="https://github.com/user-attachments/assets/5cbb140b-4fa2-4224-bdaa-345878cc154e" />
@@ -45,5 +46,5 @@ pi_realtime.py
 -	Reads ESP32 stream, buffers, windows, extracts features, selects, normalises, runs 
 -	AdaBoost, majority vote prediction stabilisation, sends label back. Runs continuously on the Pi.
 
-
+----------------------------------------------------------------------------------------------------------------
 Full documentation explaining the process of building the hardware and the software implementation can be found in the Documentation_HMP pdf file.
