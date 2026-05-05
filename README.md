@@ -22,6 +22,10 @@ Assembled Hardware:
 
 <img width="1012" height="759" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/c78c6bac-7d62-48fc-bd90-dfb0cd99de4a" />
 
+
+Mounted Hardware:
+<img width="475" height="799" alt="image" src="https://github.com/user-attachments/assets/8cf53e9c-b3d2-4be7-956a-ccbbdbdeb778" />
+
 ---------------------------------------------------------------------------------------------------------------
 Software- Summary of the systems script types:
 
