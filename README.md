@@ -1,22 +1,26 @@
 # Human-Motion-Prediction-Wearable-Hardware-System
 Wearable hardware system and the implemented software for data collection (for model training) and activity classification during live deployment.
 
+----------------------------------------------------------------------------------------------------------------
 Wiring Diagram:  
 
 <img width="940" height="488" alt="image" src="https://github.com/user-attachments/assets/5cbb140b-4fa2-4224-bdaa-345878cc154e" />
 
 Components list:
 
-<img width="1788" height="1295" alt="image" src="https://github.com/user-attachments/assets/420c1d94-9046-4c89-ae1d-08dba36eb9fb" />
+<img width="1788" height="1295" alt="image" src="https://github.com/user-attachments/assets/3d3d037a-0122-43e6-94ab-e18101e5426b" />
 
-<img width="724" height="609" alt="image" src="https://github.com/user-attachments/assets/a0a1a9fa-6824-47c9-8994-d452fd64f113" />
 
+<img width="724" height="609" alt="image" src="https://github.com/user-attachments/assets/ebcd2791-57b0-4487-a07b-0888416e755a" />
+
+
+---------------------------------------------------------------------------------------------------------------
 
 Assembled Hardware:
 
 <img width="1012" height="759" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/c78c6bac-7d62-48fc-bd90-dfb0cd99de4a" />
 
-
+---------------------------------------------------------------------------------------------------------------
 Software- Summary of the systems script types:
 
 1.	Training scripts
