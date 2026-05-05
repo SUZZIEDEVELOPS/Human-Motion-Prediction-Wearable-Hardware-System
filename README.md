@@ -34,6 +34,7 @@ Mounted Hardware:
 Software- Summary of the systems script types:
 
 1.	Training scripts
+   
 collect_data.py
 -	Run on the Pi and records raw sensor stream to CSV.
 extract_features.py 
@@ -47,12 +48,14 @@ models/scaler.pk1 → fitted StandardScaler
 
 models/selected_features.json → list of 150 selected feature names
 
-2.	ESP32 Firmware to be flashed onto the ESP32.
+2.	ESP32 Firmware to be flashed onto the ESP32
+   
 main.ino_esp32
 -	Reads sensors, Kalman filters, streams CSV to Pi, receives label back, shows on OLED. 
 -	Runs continuously on the ESP32.
 
 3.	PI inference script to run on the Raspberry Pi.
+   
 pi_realtime.py
 -	Reads ESP32 stream, buffers, windows, extracts features, selects, normalises, runs 
 -	AdaBoost, majority vote prediction stabilisation, sends label back. Runs continuously on the Pi.
