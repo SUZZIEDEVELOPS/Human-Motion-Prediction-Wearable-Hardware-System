@@ -28,6 +28,8 @@ Mounted Hardware:
 <img width="491" height="479" alt="Mounted_hardware" src="https://github.com/user-attachments/assets/05f3ea50-3da3-4c19-9b54-d0274e3624fe" />
 
 
+<img width="602" height="419" alt="Mounted_hardware_2" src="https://github.com/user-attachments/assets/099c53dc-a3c1-44be-8ffd-e348018091ae" />
+
 ---------------------------------------------------------------------------------------------------------------
 Software- Summary of the systems script types:
 
